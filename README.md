@@ -1,6 +1,6 @@
 # CAPSTONE PROJECT- PREDICTING HOUSE PRICES  (ALT SCHOOL)
 
-![](house_image.jpg)
+![](houseimage.jpg)
 ---
 
 ## PROBLEM STATEMENT

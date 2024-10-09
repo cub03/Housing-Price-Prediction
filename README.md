@@ -1,5 +1,7 @@
 # CAPSTONE PROJECT- PREDICTING HOUSE PRICES  (ALT SCHOOL)
+
 ![](house_image.jpg)
+---
 
 ## PROBLEM STATEMENT
 The prices of houses are influenced by various factors like the size, location, condition, etc. Predicting house prices is important to stakeholders who are housing developers or contractors, investors or those looking to purchase a house.
@@ -49,6 +51,4 @@ From the visualizations above, it is discovered that;
 ## CONCLUSIONS
 From the analysis, it can be concluded that house size is a significant factor in determining house prices in the USA. Generally, larger homes tend to be more expensive, while smaller homes are typically less expensive. It proves that developers factor in house size in fixing prices.
 It can be concluded that the age of the house has minimal impact on determining its price in the USA.
-CONCLUSIONS
-From the analysis, it can be concluded that house size is a significant factor in determining house prices in the USA. Generally, larger homes tend to be more expensive, while smaller homes are typically less expensive. It proves that developers factor in house size in fixing prices.
-It can be concluded that the age of the house has minimal impact on determining its price in the USA.
+
